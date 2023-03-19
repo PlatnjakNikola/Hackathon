@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de8e2410-6000-4980-a2ec-1c98c1467c96" name="Changes" comment="" />
+    <list default="true" id="de8e2410-6000-4980-a2ec-1c98c1467c96" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -24,6 +29,7 @@
     <dismissed value="$PROJECT_DIR$/aplication/react-social/package.json" />
   </component>
   <component name="ProjectId" id="2NCrPvl2QAD4URl36CIeOhm6x69" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679178889759</updated>
-      <workItem from="1679178892569" duration="14340000" />
+      <workItem from="1679178892569" duration="14946000" />
     </task>
     <servers />
   </component>
